@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/delta_change_detection/__init__.py
+src/delta_change_detection/analyzer.py
+src/delta_change_detection/mask.py
+src/delta_change_detection.egg-info/PKG-INFO
+src/delta_change_detection.egg-info/SOURCES.txt
+src/delta_change_detection.egg-info/dependency_links.txt
+src/delta_change_detection.egg-info/requires.txt
+src/delta_change_detection.egg-info/top_level.txt
+tests/test_change.py
