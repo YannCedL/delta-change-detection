@@ -19,3 +19,5 @@ def detect_change(lat: float, lon: float, date_start: str, date_end: str) -> Res
 # ndvi formula verified
 
 # filtered nodata sentinel pixels
+
+# refactored pipeline for batch processing
