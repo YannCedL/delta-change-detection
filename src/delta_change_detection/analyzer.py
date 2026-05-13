@@ -17,3 +17,5 @@ def detect_change(lat: float, lon: float, date_start: str, date_end: str) -> Res
     return contract
 
 # ndvi formula verified
+
+# filtered nodata sentinel pixels
